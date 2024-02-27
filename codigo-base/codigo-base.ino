@@ -1,7 +1,7 @@
-#define LED1 3
-#define LED2 5
-#define LED3 6
-#define LED4 9
+#define LED1 2
+#define LED2 3
+#define LED3 4
+#define LED4 5
 #define BUZZER 11
 
 int som = 0;          // som a ser tocado
